@@ -84,5 +84,5 @@
     <dip name="Demo Sounds" bits="14" ids="Off,On"/>
     <dip name="Allow Continue" bits="15" ids="Yes,No"/>
   </switches>
-  <buttons names="Attack,Jump,Coin,Start 1P,Start 2P,Pause,Service" default="B,A,Select,Start,R,L,X" count="2"/>
+  <buttons names="Punch,Kick,Coin,Start 1P,Start 2P,Pause,Service" default="B,A,Select,Start,R,L,X" count="2"/>
 </misterromdescription>
